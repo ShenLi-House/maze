@@ -260,18 +260,18 @@ void bgm() {
 				musicFilePath = L"resource/music/bgmy.mp3";
 				playBackgroundMusic(musicFilePath);
 				break;
-			case 2:
+			/*case 2:
 				musicFilePath = L"resource/music/bgm.mp3";
 				playBackgroundMusic(musicFilePath);
-				break;
-			/*case 3:
+				break;*/
+			case 3:
 				musicFilePath = L"resource/music/bgm3.mp3";
 				playBackgroundMusic(musicFilePath);
-				break;*/
-			/*case 4:
+				break;
+			case 4:
 				musicFilePath = L"resource/music/bgm4.mp3";
 				playBackgroundMusic(musicFilePath);
-				break;*/
+				break;
 			case 5:
 				musicFilePath = L"resource/music/bgm5.mp3";
 				playBackgroundMusic(musicFilePath);
