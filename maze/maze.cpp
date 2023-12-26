@@ -272,10 +272,10 @@ void bgm() {
 				musicFilePath = L"resource/music/bgm4.mp3";
 				playBackgroundMusic(musicFilePath);
 				break;
-			case 5:
-				musicFilePath = L"resource/music/bgm5.mp3";
-				playBackgroundMusic(musicFilePath);
-				break;
+			//case 5:
+			//	musicFilePath = L"resource/music/bgm5.mp3";
+			//	playBackgroundMusic(musicFilePath);
+			//	break;
 			 
 			}
 		}
