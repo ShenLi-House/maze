@@ -168,6 +168,7 @@ void update()
 	}
 	if ((GetAsyncKeyState('K') & 0x8001))
 	{
+		//printf();
 		 // 记录开始时间
 		clock_t start_time = clock();
 		dfsMark(newArray,player.i, player.j, mazeStartX, mazeStartY);
