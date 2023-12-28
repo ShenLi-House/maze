@@ -1,4 +1,4 @@
-﻿#include<graphics.h>//123
+﻿#include<graphics.h>//123456
 #include<conio.h>
 #include<stdio.H>
 #include<windows.h>
