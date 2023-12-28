@@ -1,4 +1,4 @@
-﻿#include<graphics.h>//dddddddd
+﻿#include<graphics.h>//ddd
 #include<conio.h>
 #include<stdio.H>
 #include<windows.h>
