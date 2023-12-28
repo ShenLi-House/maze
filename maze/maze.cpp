@@ -1,4 +1,4 @@
-﻿#include<graphics.h>//ddd
+﻿#include<graphics.h>//吼吼吼
 #include<conio.h>
 #include<stdio.H>
 #include<windows.h>
