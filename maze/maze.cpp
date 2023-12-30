@@ -1,4 +1,4 @@
-﻿#include<graphics.h>//dddddddd
+﻿#include<graphics.h>//吼吼吼
 #include<conio.h>
 #include<stdio.H>
 #include<windows.h>
@@ -168,7 +168,7 @@ void update()
 	}
 	if ((GetAsyncKeyState('K') & 0x8001))
 	{
-		//printf("进来了xxxxx");
+		//printf();
 		 // 记录开始时间
 		clock_t start_time = clock();
 		dfsMark(newArray,player.i, player.j, mazeStartX, mazeStartY);
