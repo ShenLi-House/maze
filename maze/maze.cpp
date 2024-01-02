@@ -1,4 +1,4 @@
-﻿#include<graphics.h>//吼吼吼
+﻿#include<graphics.h>//不吼了
 #include<conio.h>
 #include<stdio.H>
 #include<windows.h>
